@@ -4,3 +4,8 @@ texto
 num.1
 primer commit despues de crear el repositorio en github
 0929-250424
+---------------------------
+Segundo commit
+Se realizo una copia del repositorio de github REPOPRUEBA
+y se ubico en la carpeta local REPOPRUEBA(REPOPRUEBA/REPOPRUEBA)
+---------------------------
