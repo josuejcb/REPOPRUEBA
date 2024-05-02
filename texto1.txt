@@ -9,3 +9,7 @@ Segundo commit
 Se realizo una copia del repositorio de github REPOPRUEBA
 y se ubico en la carpeta local REPOPRUEBA(REPOPRUEBA/REPOPRUEBA)
 ---------------------------
+Tercer commit de prueba
+en lab
+02-05-24
+---------------------------
